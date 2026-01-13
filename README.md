@@ -1,5 +1,6 @@
 # spring-cloud-demo-vue
 
+
 Spring Cloud 微服务前端登录页面
 
 ## 功能特性
@@ -77,4 +78,4 @@ src/
 
 1. 确保后端服务（Gateway）已启动在 `http://localhost:7573`
 2. 登录成功后，Token 会自动保存到浏览器的 localStorage 中
-3. 如果遇到 CORS 跨域问题，请确保后端已配置允许跨域请求
+
