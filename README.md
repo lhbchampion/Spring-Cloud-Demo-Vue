@@ -23,7 +23,7 @@ npm install
 npm run serve
 ```
 
-启动后，访问：**http://localhost:8081** （默认端口，如果被占用会自动使用其他端口）
+启动后，访问：**http://localhost:8081** 
 
 ## 登录页面
 
