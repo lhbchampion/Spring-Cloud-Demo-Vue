@@ -78,4 +78,6 @@ src/
 
 1. 确保后端服务（Gateway）已启动在 `http://localhost:7573`
 2. 登录成功后，Token 会自动保存到浏览器的 localStorage 中
+3. Node.js v22.18.0
+
 
